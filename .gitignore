@@ -17,4 +17,4 @@
 *.exe
 *.out
 *.app
-.vscode/settings.json
+.vscode/
